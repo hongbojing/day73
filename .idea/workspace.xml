@@ -2,7 +2,297 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b1f80a-240a-43f8-a7eb-cb9a3b54532e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/foundation-icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/foundation-icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/foundation-icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-address-book.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-alert.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-align-center.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-align-justify.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-align-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-align-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-anchor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-annotate.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-archive.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-arrow-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-arrow-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-arrow-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-arrow-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-arrows-compress.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-arrows-expand.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-arrows-in.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-arrows-out.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-asl.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-asterisk.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-at-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-background-color.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-battery-empty.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-battery-full.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-battery-half.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-bitcoin-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-bitcoin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-blind.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-bluetooth.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-bold.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-book-bookmark.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-book.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-bookmark.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-braille.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-burst-new.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-burst-sale.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-burst.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-calendar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-camera.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-checkbox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-clipboard-notes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-clipboard-pencil.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-clipboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-clock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-closed-caption.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-cloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-comment-minus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-comment-quotes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-comment-video.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-comment.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-comments.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-compass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-contrast.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-credit-card.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-crop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-crown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-css3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-database.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-die-five.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-die-four.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-die-one.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-die-six.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-die-three.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-die-two.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-dislike.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-dollar-bill.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-dollar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-download.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-eject.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-elevator.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-euro.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-eye.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-fast-forward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-female-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-female.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-filter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-first-aid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-flag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-folder-add.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-folder-lock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-folder.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-foot.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-foundation.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-graph-bar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-graph-horizontal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-graph-pie.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-graph-trend.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-guide-dog.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-hearing-aid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-heart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-home.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-html5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-indent-less.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-indent-more.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-info.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-key.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-laptop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-layout.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-lightbulb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-like.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-link.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-list-bullet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-list-number.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-list-thumbnails.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-list.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-lock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-loop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-magnifying-glass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-mail.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-male-female.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-male-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-male.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-map.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-marker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-megaphone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-microphone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-minus-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-minus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-mobile-signal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-mobile.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-monitor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-mountains.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-music.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-next.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-no-dogs.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-no-smoking.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-page-add.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-page-copy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-page-csv.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-page-delete.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-page-doc.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-page-edit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-page-export-csv.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-page-export-doc.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-page-export-pdf.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-page-export.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-page-filled.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-page-multiple.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-page-pdf.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-page-remove.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-page-search.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-page.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-paint-bucket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-paperclip.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-pause.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-paw.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-paypal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-pencil.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-photo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-play-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-play-video.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-play.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-plus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-pound.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-power.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-previous.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-price-tag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-pricetag-multiple.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-print.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-prohibited.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-projection-screen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-puzzle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-quote.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-record.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-refresh.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-results-demographics.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-results.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-rewind-ten.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-rewind.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-rss.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-safety-cone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-save.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-share.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-sheriff-badge.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-shield.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-shopping-bag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-shopping-cart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-shuffle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-skull.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-500px.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-adobe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-amazon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-android.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-apple.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-behance.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-bing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-blogger.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-delicious.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-designer-news.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-deviant-art.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-digg.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-dribbble.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-drive.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-dropbox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-evernote.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-facebook.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-flickr.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-forrst.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-foursquare.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-game-center.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-github.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-google-plus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-hacker-news.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-hi5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-instagram.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-joomla.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-lastfm.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-linkedin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-medium.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-myspace.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-orkut.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-path.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-picasa.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-pinterest.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-rdio.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-reddit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-skillshare.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-skype.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-smashing-mag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-snapchat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-spotify.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-squidoo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-stack-overflow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-steam.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-stumbleupon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-treehouse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-tumblr.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-twitter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-vimeo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-windows.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-xbox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-yahoo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-yelp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-youtube.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-zerply.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-social-zurb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-sound.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-star.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-stop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-strikethrough.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-subscript.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-superscript.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-tablet-landscape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-tablet-portrait.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-target-two.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-target.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-telephone-accessible.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-telephone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-text-color.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-thumbnails.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-ticket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-torso-business.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-torso-female.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-torso.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-torsos-all-female.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-torsos-all.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-torsos-female-male.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-torsos-male-female.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-torsos.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-trash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-trees.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-trophy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-underline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-universal-access.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-unlink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-unlock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-upload-cloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-upload.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-usb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-video.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-volume-none.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-volume-strike.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-volume.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-web.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-wheelchair.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-widget.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-wrench.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-x-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-x.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-yen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-zoom-in.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/svgs/fi-zoom-out.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/foundation-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/foundation-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builds/development/css/foundation.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/builds/development/index.html" afterPath="$PROJECT_DIR$/builds/development/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="day73-ang-demo-for-73.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,11 +326,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1280683">
+            <state vertical-scroll-proportion="0.0">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/builds/development/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.95071197">
+              <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fi-x.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/builds/development/css/svgs/fi-x.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="foundation-icons.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/builds/development/css/foundation-icons.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="foundation.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/builds/development/css/foundation.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,6 +385,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/builds/development/index.html" />
       </list>
     </option>
   </component>
@@ -117,6 +448,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day73-ang-demo-for-73" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day73-ang-demo-for-73" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="builds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="development" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day73-ang-demo-for-73" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day73-ang-demo-for-73" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="builds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="development" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -128,6 +499,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/builds/development/css" />
+      <recent name="$PROJECT_DIR$/builds/development" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/builds/development/css" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -184,14 +564,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-3840" y="-432" width="1920" height="1057" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -254,8 +634,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1280683">
+        <state vertical-scroll-proportion="0.0">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builds/development/css/foundation.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builds/development/css/foundation-icons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builds/development/css/svgs/fi-x.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builds/development/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95071197">
+          <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
           <folding />
         </state>
       </provider>
